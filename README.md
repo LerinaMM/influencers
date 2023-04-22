@@ -1,5 +1,5 @@
 # influencers
-Projeto onde realizo uma análise de um conjunto de dados de influencers
+Projeto onde realizo uma análise de um conjunto de dados de influencers com os dados do final de 2022.
 
 # Taxa de Engajamento
 
